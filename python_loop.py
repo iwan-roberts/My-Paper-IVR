@@ -2,8 +2,9 @@
 #Used for writing a paper about loops
 
 #I AM IN CONTROL NOW HA HA HA HA 
+# NEVER!!! You will never sieze control. I am the master of this 
 
-word = "Einstein"
+word = "Timothy Dalton"
 reversed_word = ""
 
 for char in word:
