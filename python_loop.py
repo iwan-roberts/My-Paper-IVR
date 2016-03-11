@@ -3,7 +3,7 @@
 
 #I AM IN CONTROL NOW HA HA HA HA 
 
-word = "Newton"
+word = "Einstein"
 reversed_word = ""
 
 for char in word:
