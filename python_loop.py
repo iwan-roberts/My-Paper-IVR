@@ -1,6 +1,8 @@
 #Test loop to reverse word.
 #Used for writing a paper about loops
 
+#I AM IN CONTROL NOW HA HA HA HA 
+
 word = "Newton"
 reversed_word = ""
 
