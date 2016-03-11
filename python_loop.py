@@ -1,4 +1,5 @@
-#Test loop to reverse word
+#Test loop to reverse word.
+#Used for writing a paper about loops
 
 word = "Newton"
 reversed_word = ""
